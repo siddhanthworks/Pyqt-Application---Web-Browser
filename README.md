@@ -1,5 +1,5 @@
-# Pyqt-Application---Web-Browser
-A web browser made using Python. I used the pyqt library to make the Graphical User Interface.
+Web Browser Application using PyQt
+A web browser made using Python. I used the pyqt library to make the Graphical User Interface.PyQt is a Python binding for Qt, which is a set of C++ libraries and development tools providing platform-independent abstractions for graphical user interfaces (GUIs)
 The browser has useful and modern functionalites like reload button, keyboard shortcuts, progress bar and support for multiple tabs
 
 To use the browser just run the py_browser python file and you are good to go.
